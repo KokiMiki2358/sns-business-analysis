@@ -211,3 +211,4 @@ python/
 .env
 *.csv
 *.png
+!images/*.png
