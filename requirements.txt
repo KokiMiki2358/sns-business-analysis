@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+japanize-matplotlib
+apify-client
+python-dotenv
